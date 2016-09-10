@@ -1,0 +1,22 @@
+{
+  "name": "easysock.js",
+  "version": "0.0.2",
+  "description": "A nodejs socket library that mimics Socket.IO's interfaces.",
+  "main": "easysock.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkdong/easysock.js.git"
+  },
+  "keywords": [
+    "Socket"
+  ],
+  "author": "Mingkai Dong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mkdong/easysock.js/issues"
+  },
+  "homepage": "https://github.com/mkdong/easysock.js#readme"
+}
